@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 
 ## [2.5.0] - 2018-10-16
 - Moved Project to GitHub
-- Updated Fonts from iOS12.1 beta 4 IPSW
+- Updated Fonts from iOS12.1 beta 4 IPSW system dump
 - Updated emoji
 - fixed font.xml (weights,font-family)
 - included ProductSans (extra ,since it is also being used)
