@@ -1,4 +1,4 @@
-# SanFrancisco_Fonts(with emoji)
+# SanFrancisco_Fonts(without emoji)
 [![N|Solid](https://img.xda-cdn.com/3CfRzT75ECZeIBXHGEPJ7cIQjso=/https%3A%2F%2Fdeveloper.apple.com%2Ffonts%2Fimages%2Ffont-hero_2x.png)](https://developer.apple.com/fonts/)
 
 SanFrancisco Fonts by Apple Inc.
@@ -31,7 +31,7 @@ SanFrancisco Fonts by Apple Inc.
  - [x] Update to ios12 fonts 
  - [x] iOS 12 emoji's
  - [ ] fix utf11 glyphs for pie 
- - [ ] View this after installing fonts 😊 :-  
+ - [ ] View this after installing fonts ðŸ˜Š :-  ï£¿
 
 ## Files Used for the module
 * [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
@@ -57,7 +57,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 ## LICENSE [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
-Copyright © 2018 cptmacp. Licensed under the GNU General Public License v3.
+Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
 
 
 ## [Official XDA thread](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785) [![XDA Official thread](https://img.shields.io/badge/XDA&nbsp;Forum-ff8300.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
