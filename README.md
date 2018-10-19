@@ -31,7 +31,7 @@ SanFrancisco Fonts by Apple Inc.
  - [x] Update to ios12 fonts 
  - [x] iOS 12 emoji's
  - [ ] fix utf11 glyphs for pie 
- - [ ] View this after installing fonts 😊 :-  
+ - [ ] Visit here again to see the easter egg after installing fonts 😉 ==>  
 
 ## Files Used for the module
 * [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
