@@ -48,6 +48,9 @@ SanFrancisco Fonts by Apple Inc.
 ## Font Preview
 * [Here](https://ggwpez.net/files/SF/Font.html)
 
+## Release (All other variants)
+* [Here](https://github.com/Magisk-Modules-Repo/SanFrancisco_Fonts/releases)
+
 ## Changelog [![Change Log](https://img.shields.io/badge/Change&nbsp;Log-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 * [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 
