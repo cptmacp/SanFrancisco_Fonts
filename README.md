@@ -1,4 +1,4 @@
-# SanFrancisco_Fonts(with emoji)
+# SanFrancisco_Fonts(w/ emoji)
 [![N|Solid](https://img.xda-cdn.com/3CfRzT75ECZeIBXHGEPJ7cIQjso=/https%3A%2F%2Fdeveloper.apple.com%2Ffonts%2Fimages%2Ffont-hero_2x.png)](https://developer.apple.com/fonts/)
 
 SanFrancisco Fonts by Apple Inc.
@@ -10,6 +10,17 @@ SanFrancisco Fonts by Apple Inc.
 [Dev Apple](https://developer.apple.com/fonts/)
 
 [Info](http://protosketch.io/san-francisco-display-vs-text-compact-vs-normal-a-brief-review/)
+
+
+# Avaliable Varaints :-
+- System
+- Systemless
+- w/ emoji
+- w/o emoji
+
+
+## Release (All variants)
+* [Here](https://github.com/Magisk-Modules-Repo/SanFrancisco_Fonts/releases)
 
 
 ## Additional Info:-
@@ -48,8 +59,6 @@ SanFrancisco Fonts by Apple Inc.
 ## Font Preview
 * [Here](https://ggwpez.net/files/SF/Font.html)
 
-## Release (All other variants)
-* [Here](https://github.com/Magisk-Modules-Repo/SanFrancisco_Fonts/releases)
 
 ## Changelog [![Change Log](https://img.shields.io/badge/Change&nbsp;Log-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 * [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
@@ -60,7 +69,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 ## LICENSE [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
-Copyright © 2018 cptmacp. Licensed under the GNU General Public License v3.
+Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
 
 
 ## [Official XDA thread](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785) [![XDA Official thread](https://img.shields.io/badge/XDA&nbsp;Forum-ff8300.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
