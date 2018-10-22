@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - Updated emoji
 - fixed font.xml (weights,font-family)
 - included ProductSans (extra ,since it is also being used)
+- fixed update and binary script (system)
 
 
 
