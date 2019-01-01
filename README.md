@@ -30,6 +30,9 @@ SanFrancisco Fonts by Apple Inc.
 - This fonts system uses Apple Display and Condensed fonts.
 - Tested on LOS, AOSP,MIUI,Pixel based roms ( Oreo , Pie)
 - Default Revert back Zip Roboto for /system ( from Google's roboto Git )
+- Optimized outlines
+- Hinting Preserved
+- Anti-aliased 
 
 
 ## Compatibilities :-
