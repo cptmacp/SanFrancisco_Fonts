@@ -1,4 +1,4 @@
-# SanFrancisco_Fonts(w/o emoji)
+# SanFrancisco_Fonts(w/ emoji)
 
 [![N|Solid](https://i.imgur.com/Zy1ruwe.png)](https://developer.apple.com/fonts/)
 
