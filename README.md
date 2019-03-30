@@ -1,9 +1,13 @@
-# SanFrancisco_Fonts(w/ emoji)
+# SanFrancisco_Fonts(w/o emoji)
+
+[![N|Solid](https://i.imgur.com/Zy1ruwe.png)](https://developer.apple.com/fonts/)
+
 [![N|Solid](https://img.xda-cdn.com/3CfRzT75ECZeIBXHGEPJ7cIQjso=/https%3A%2F%2Fdeveloper.apple.com%2Ffonts%2Fimages%2Ffont-hero_2x.png)](https://developer.apple.com/fonts/)
+
 
 SanFrancisco Fonts by Apple Inc.
 
-[![Build Status](https://camo.githubusercontent.com/c078fb37a63d24c7b2e72e35e506350e6de5d1c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616769736b2d31372532422d3030423339422e7376673f7374796c653d666c61742d737175617265)](https://devloper.apple.com/fonts)
+[![Build Status](https://img.shields.io/badge/Magisk-18%2B-green.svg)](https://devloper.apple.com/fonts)
 
 
 # Source:-
@@ -30,6 +34,9 @@ SanFrancisco Fonts by Apple Inc.
 - This fonts system uses Apple Display and Condensed fonts.
 - Tested on LOS, AOSP,MIUI,Pixel based roms ( Oreo , Pie)
 - Default Revert back Zip Roboto for /system ( from Google's roboto Git )
+- Optimized outlines
+- Hinting Preserved
+- Anti-aliased 
 
 
 ## Compatibilities :-
@@ -41,7 +48,8 @@ SanFrancisco Fonts by Apple Inc.
 ## Todos
  - [x] Update to ios12 fonts 
  - [x] iOS 12 emoji's
- - [ ] fix utf11 glyphs for pie 
+ - [x] fix utf11 glyphs for pie 
+ - [ ] try to rename all fonts (properties) for simplicity 
  - [ ] Visit here again to see the easter egg after installing fonts 😉 ==>  
 
 
@@ -58,7 +66,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 ## Font Preview
-* [Here](https://ggwpez.net/files/SF/Font.html)
+* [Here](https://ggwpez.net/SF/index.html)
 
 
 ## Changelog [![Change Log](https://img.shields.io/badge/Change&nbsp;Log-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
