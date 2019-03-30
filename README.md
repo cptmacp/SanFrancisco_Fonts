@@ -1,9 +1,13 @@
 # SanFrancisco_Fonts(System)
+
+[![N|Solid](https://i.imgur.com/Zy1ruwe.png)](https://developer.apple.com/fonts/)
+
 [![N|Solid](https://img.xda-cdn.com/3CfRzT75ECZeIBXHGEPJ7cIQjso=/https%3A%2F%2Fdeveloper.apple.com%2Ffonts%2Fimages%2Ffont-hero_2x.png)](https://developer.apple.com/fonts/)
+
 
 SanFrancisco Fonts by Apple Inc.
 
-[![Build Status](https://camo.githubusercontent.com/c078fb37a63d24c7b2e72e35e506350e6de5d1c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616769736b2d31372532422d3030423339422e7376673f7374796c653d666c61742d737175617265)](https://devloper.apple.com/fonts)
+[![Build Status](https://img.shields.io/badge/System-8.1%2B-blue.svg)](https://devloper.apple.com/fonts)
 
 
 # Source:-
@@ -30,8 +34,9 @@ SanFrancisco Fonts by Apple Inc.
 ## Todos
  - [x] Update to ios12 fonts 
  - [x] iOS 12 emoji's
- - [ ] fix utf11 glyphs for pie 
-
+ - [x] fix utf11 glyphs for pie 
+ - [ ] try to rename all fonts (properties) for simplicity 
+ - [ ] Visit here again to see the easter egg after installing fonts 😉 ==>  
 
 ## Files Used for the zip
 * [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
