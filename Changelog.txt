@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [Released]
 
+## [3.0.0] - 2019-3-30
+- updated template to new "magisk-module-installer"
+- removed fonts.xml ( temp, untill I can unify it for all android version )
+- updated license
+- updated readme.md 
+- updated version 3.0
 
 ## [2.5.0] - 2018-10-16
 - Moved Project to GitHub
