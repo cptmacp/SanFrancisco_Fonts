@@ -8,7 +8,6 @@ ui_print("#                 v2.138               #");
 ui_print("#                                      #");
 ui_print("#             By Google Inc            #");
 ui_print("#                                      #");
-ui_print("#           Shipped by cpt.macp        #");
 ui_print("########################################");
 run_program("/sbin/sleep", "3");
 ui_print(" ");
