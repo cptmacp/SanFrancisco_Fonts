@@ -7,7 +7,7 @@
 
 SanFrancisco Fonts by Apple Inc.
 
-[![Build Status](https://camo.githubusercontent.com/c078fb37a63d24c7b2e72e35e506350e6de5d1c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616769736b2d31372532422d3030423339422e7376673f7374796c653d666c61742d737175617265)](https://devloper.apple.com/fonts)
+[![Build Status](https://img.shields.io/badge/Magisk-18%2B-green.svg)](https://devloper.apple.com/fonts)
 
 
 # Source:-
