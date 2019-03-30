@@ -10,6 +10,10 @@ All notable changes to this project will be documented in this file.
 - updated license
 - updated readme.md 
 - updated version 3.0
+- fix bootloops and weird texts and missing glyphs and spacing issues .
+- updated version 3.0
+
+
 
 ## [2.5.0] - 2018-10-16
 - Moved Project to GitHub
