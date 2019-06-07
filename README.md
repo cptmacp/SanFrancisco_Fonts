@@ -17,6 +17,7 @@ SanFrancisco Fonts by Apple Inc.
 [Info](http://protosketch.io/san-francisco-display-vs-text-compact-vs-normal-a-brief-review/)
 
 
+
 # Avaliable Varaints :-
 - System
 - Systemless
@@ -24,8 +25,11 @@ SanFrancisco Fonts by Apple Inc.
 - w/o emoji
 
 
+
 ## Release (All variants)
 - [Here](https://github.com/Magisk-Modules-Repo/SanFrancisco_Fonts/releases)
+
+
 
 
 ## Additional Info:-
@@ -40,10 +44,12 @@ SanFrancisco Fonts by Apple Inc.
 - Anti-aliased 
 
 
+
 ## Compatibilities :-
 - Wont work with existing fonts , try to use on stock or untouched /system
 - Wont work with existing magisk font module ( uninstall/disable it ) .
 - Might get an issue if using Lockscreen mods , make sure to use default fonts .
+
 
 
 ## Todos
@@ -54,8 +60,10 @@ SanFrancisco Fonts by Apple Inc.
  - [ ] Visit here again to see the easter egg after installing fonts 😉 ==>  
 
 
+
 ## Files Used for the module
 - [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
+
 
 
 ## Screenshots 
@@ -66,12 +74,15 @@ SanFrancisco Fonts by Apple Inc.
 - [img5](https://i.imgur.com/rjSxp6z.png)
 
 
+
 ## Font Preview
 - [Here](https://ggwpez.net/SF/index.html)
 
 
+
 ## Changelog [![Change Log](https://img.shields.io/badge/ChangeLog-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 - [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
+
 
 
 ## Feedback & Support
@@ -80,9 +91,11 @@ SanFrancisco Fonts by Apple Inc.
 - Tag me over xda forum and ill respond asap
 
 
+
 ## LICENSE [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
 Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
 
 
-## [Official XDA thread](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785) 
-[![XDA Official thread](https://img.shields.io/badge/XDA&nbsp;Forum-ff8300.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
+
+## [Official XDA thread][![XDA Official thread](https://img.shields.io/badge/XDAForum-ff8300.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
+- [Here](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
