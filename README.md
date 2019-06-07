@@ -70,7 +70,8 @@ SanFrancisco Fonts by Apple Inc.
 - [Here](https://ggwpez.net/SF/index.html)
 
 
-## Changelog [![Change Log](https://img.shields.io/badge/Change&nbsp;Log-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
+## Changelog 
+[![Change Log](https://img.shields.io/badge/ChangeLog-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 - [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 
 
@@ -78,7 +79,8 @@ SanFrancisco Fonts by Apple Inc.
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
 
-## LICENSE [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
-Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
+## LICENSE
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
+Copyright © 2018 cptmacp. Licensed under the GNU General Public License v3.
 
 
