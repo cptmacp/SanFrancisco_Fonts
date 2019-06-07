@@ -69,4 +69,10 @@ SanFrancisco Fonts by Apple Inc.
 ## Font Preview
 - [Here](https://ggwpez.net/SF/index.html)
 
+## Changelog [![Change Log](https://img.shields.io/badge/ChangeLog-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
+- [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
+
+
+## Feedback & Support
+- Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 
