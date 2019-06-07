@@ -45,3 +45,14 @@ SanFrancisco Fonts by Apple Inc.
 - Wont work with existing magisk font module ( uninstall/disable it ) .
 - Might get an issue if using Lockscreen mods , make sure to use default fonts .
 
+
+## Todos
+ - [x] Update to ios12 fonts 
+ - [x] iOS 12 emoji's
+ - [x] fix utf11 glyphs for pie 
+ - [ ] try to rename all fonts (properties) for simplicity 
+ - [ ] Visit here again to see the easter egg after installing fonts 😉 ==>  
+
+
+## Files Used for the module
+* [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
