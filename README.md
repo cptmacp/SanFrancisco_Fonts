@@ -7,7 +7,7 @@
 
 SanFrancisco Fonts by Apple Inc.
 
-[![Build Status](https://img.shields.io/badge/Magisk-18%2B-green.svg)](https://devloper.apple.com/fonts)
+[![Build Status](https://img.shields.io/badge/Magisk-19%2B-green.svg)](https://devloper.apple.com/fonts)
 
 
 
@@ -69,6 +69,7 @@ SanFrancisco Fonts by Apple Inc.
 ## Font Preview
 - [Here](https://ggwpez.net/SF/index.html)
 
+
 ## Changelog [![Change Log](https://img.shields.io/badge/ChangeLog-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 - [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 
@@ -77,3 +78,11 @@ SanFrancisco Fonts by Apple Inc.
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
 - Open issues here if you face any
 - Tag me over xda forum and ill respond asap
+
+
+## LICENSE [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
+Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
+
+
+## [Official XDA thread](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785) 
+[![XDA Official thread](https://img.shields.io/badge/XDA&nbsp;Forum-ff8300.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
