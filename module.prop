@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=SanFrancisco_Fonts
+name=SanFrancisco Fonts w/o emoji By Apple.Inc
+version=v3.0
+versionCode=30
+author=cpt.macp
+description=Installs SF-Pro fonts systemlessly
