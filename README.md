@@ -75,4 +75,5 @@ SanFrancisco Fonts by Apple Inc.
 
 ## Feedback & Support
 - Visit the Official XDA thread (link below) and provide the current device, ROM and OS version you are on if you need assistance.
-
+- Open issues here if you face any
+- Tag me over xda forum and ill respond asap
