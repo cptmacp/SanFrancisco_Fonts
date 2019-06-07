@@ -97,5 +97,5 @@ Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
 
 
 
-## [Official XDA thread][![XDA Official thread](https://img.shields.io/badge/XDAForum-ff8300.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
+## Official XDA thread [![XDA Official thread](https://img.shields.io/badge/XDAForum-ff8300.svg?style=flat-square)](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
 - [Here](https://forum.xda-developers.com/apps/magisk/module-apple-font-sf-pro-t3794785)
