@@ -25,7 +25,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 ## Release (All variants)
-* [Here](https://github.com/Magisk-Modules-Repo/SanFrancisco_Fonts/releases)
+- [Here](https://github.com/Magisk-Modules-Repo/SanFrancisco_Fonts/releases)
 
 
 ## Additional Info:-
