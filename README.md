@@ -93,7 +93,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 ## LICENSE [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-0067b2.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/LICENSE)
-Copyright Â© 2018 cptmacp. Licensed under the GNU General Public License v3.
+Copyright © 2018 cptmacp. Licensed under the GNU General Public License v3.
 
 
 
