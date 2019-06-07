@@ -56,3 +56,20 @@ SanFrancisco Fonts by Apple Inc.
 
 ## Files Used for the module
 * [Doc's](https://docs.google.com/document/d/1i6nyG_bBUs0ioulBXsxZZsgilf33qBxDPjroxsTLeMo/edit) - Document File , table.
+
+
+## Screenshots 
+- [img1](https://i.imgur.com/saiLhd5.jpg)
+- [img2](https://i.imgur.com/jrfdPLz.png)
+- [img3](https://i.imgur.com/P72VotQ.png)
+- [img4](https://i.imgur.com/ZQuEqnp.png)
+- [img5](https://i.imgur.com/rjSxp6z.png)
+
+
+## Font Preview
+* [Here](https://ggwpez.net/SF/index.html)
+
+
+## Changelog [![Change Log](https://img.shields.io/badge/Change&nbsp;Log-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
+* [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
+
