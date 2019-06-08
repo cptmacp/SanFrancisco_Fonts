@@ -81,7 +81,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 
-## Changelog [![Change Log](https://img.shields.io/badge/ChangeLog-c902bc.svg?style=flat-square)](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
+## Changelog [![Change Log](https://img.shields.io/badge/ChangeLog-c902bc.svg?style=flat-square)](https://raw.githubusercontent.com/Magisk-Modules-Repo/SanFrancisco_Fonts/master/EULA/ChangeLog)
 - [Here](https://github.com/Magisk-Modules-Repo/iOSFonts/blob/master/Changelog.txt)
 
 
