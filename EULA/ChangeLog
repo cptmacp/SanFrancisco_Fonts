@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 ## [Released]
 
+## [3.5.0] - 2019-6-09
+
+- updated latest SanFrancisco fonts from dev site 
+- using additional Condensed fonts from iOS 13 beta 1 IPSW
+- possibly fix lockscreen glitch 
+
+
+
 ## [3.0.0] - 2019-3-30
 - updated template to new "magisk-module-installer"
 - removed fonts.xml ( temp, untill I can unify it for all android version )

@@ -124,7 +124,7 @@ REPLACE="
 print_modname() {
   ui_print "*******************************"
   ui_print "    SF-Pro Fonts w/o emoji     "
-  ui_print "            v3.0               "
+  ui_print "            v3.5               "
   ui_print "   By cpt.macp (magisk v19+)   "
   ui_print "*******************************"
 }
