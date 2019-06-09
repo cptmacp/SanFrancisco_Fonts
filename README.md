@@ -26,6 +26,10 @@ SanFrancisco Fonts by Apple Inc.
 - w/o emoji
 
 
+# Settings required:-
+- Font size around 110-120
+- ppi around 480-550
+
 
 ## Release (All variants)
 - [Here](https://github.com/Magisk-Modules-Repo/SanFrancisco_Fonts/releases)
