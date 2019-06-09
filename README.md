@@ -27,8 +27,9 @@ SanFrancisco Fonts by Apple Inc.
 
 
 # Settings required:-
-- Font size around 110-120
-- ppi around 480-550
+- Font size around 110-120 , ppi around 480-550
+OR
+- Font size around 85-90 , ppi around 420-450
 
 
 ## Release (All variants)
