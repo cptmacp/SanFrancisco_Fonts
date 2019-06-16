@@ -27,6 +27,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 # Settings required:-
+- If fonts shows weird indentation and spacing use the following :-
 - Font size around 110-120 , ppi around 480-550
 - OR
 - Font size around 85-90 , ppi around 420-450
@@ -59,10 +60,11 @@ SanFrancisco Fonts by Apple Inc.
 
 
 ## Todos
- - [x] Update to ios12 fonts 
- - [x] iOS 12 emoji's
+ - [x] update to ios13 fonts 
+ - [x] iOS 13 emoji's
  - [x] fix utf11 glyphs for pie 
- - [ ] try to rename all fonts (properties) for simplicity 
+ - [x] try to rename all fonts (properties) for simplicity 
+ - [ ] Completely fix indentation with new SF fonts
  - [ ] Visit here again to see the easter egg after installing fonts 😉 ==>  
 
 
