@@ -58,7 +58,9 @@ SanFrancisco Fonts by Apple Inc.
  - [x] Update to ios12 fonts 
  - [x] iOS 12 emoji's
  - [x] fix utf11 glyphs for pie 
- - [ ] try to rename all fonts (properties) for simplicity 
+ - [x] try to rename all fonts (properties) for simplicity 
+ - [x] Completely fix indentation with new SF fonts
+ - [ ] Rework OS/2 Metrice of SF  for android 10 compatibility 
  - [ ] Visit here again to see the easter egg after installing fonts 😉 ==>  
 
 
@@ -78,7 +80,7 @@ SanFrancisco Fonts by Apple Inc.
 
 
 ## Font Preview
-- [Here](https://ggwpez.net/SF/index.html)
+- [Here](https://ggwpez.net/ftp/SF/)
 
 
 

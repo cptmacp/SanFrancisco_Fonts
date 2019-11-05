@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ## [Released]
 
+
+
+## [4.0.0] - 2019-11-06
+
+
+> Fix Hinting issue in notification area and other display areas 
+
+> Updated from latest SF fonts source (2019-11-06)
+
+> Updated Condensed Fonts from iOS13.2 IPSW
+
+> Edited OS/2 Metrics values to 
+	Type Ascent  :- 2146
+	Type Descent :- -555
+	EM Size :- 2048 
+
+> Updated Emoji From 13.2 ISPW
+
+> Removed Some Condensed fonts from SF due to deprication by Apple in SF Source 
+
+
+
 ## [3.5.0] - 2019-6-09
 
 - updated latest SanFrancisco fonts from dev site 
